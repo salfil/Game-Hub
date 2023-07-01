@@ -1,7 +1,4 @@
-import { useState, useEffect } from "react";
-import apiClient from "../services/api-client";
 import useData from "./useData";
-import { Genre } from "./useGenres";
 import { GameQuery } from "../App";
 
 
